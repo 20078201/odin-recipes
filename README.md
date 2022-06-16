@@ -3,8 +3,12 @@
 This project will be a webpage that will contain a list of recipes.
 
 ## Project outcomes
-- Learn how to use <a></a>, <img>, <h1></h1>, <ul></ul>, <ol></ol>, <p></p> tags
+- Learn how to use `<a></a>`, `<img>`, `<h1></h1>`, `<ul></ul>`, `<ol></ol>`, `<p></p>` tags
 - Learn how to create a basic webpage
+
+```html
+<a href="#">...</a>
+```
 
 ## Reference
 - https://www.allrecipes.com/recipe/21528/pesto-pizza/
